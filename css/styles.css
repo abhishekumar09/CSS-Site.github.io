@@ -25,7 +25,7 @@ a:hover{
 
 
 h1{
-  color: #041562;
+  color: red;
   font-size: 5.625rem;       /* when u want  to write inpercentage then u dconvert in pix firdt like 100% = 16px and we wnt to 90px in perc. then we do 90/16 = 562.5%       16px=100%=1em */
 /*  line-height: 2; */
    margin: 50px auto 50px auto;
